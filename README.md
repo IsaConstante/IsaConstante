@@ -2,8 +2,8 @@
 
 - 🔭 Procurando Oportunidades para FullStack junior
 - 🌱 Estudando NodeJs
-- 💬 Contate-me no email: isaconstante5@gmail.com
-- 😄 Pronouns: Ela/Dela
+- 💬 Fale comigo em: isaconstante5@gmail.com
+
 
 
 <div align="center">
