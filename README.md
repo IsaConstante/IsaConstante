@@ -1,8 +1,8 @@
 ### Eai, Tudo bem?!!
 
-- 🔭 Procurando Oportunidades para FullStack junior
-- 📖 Estudando NodeJs
-- 💬 Fale comigo em: isaconstante5@gmail.com
+- 🔭FullStack Developer 
+- 📖 Currently studying NodeJs
+- 💬 Contact: isaconstante5@gmail.com
 
 
 
