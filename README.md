@@ -1,6 +1,6 @@
 ### Eai, Tudo bem?!!
 
-- 🔭FullStack Developer 
+- 🔭Front-end Developer 
 - 📖 Currently studying NodeJs
 - 💬 Contact: isaconstante5@gmail.com
 
