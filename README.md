@@ -1,44 +1,59 @@
-### 👋 Hey, welcome!
+<h1 align="center">👋 Hey, welcome!</h1>
 
-Sou **Isabela**, desenvolvedora focada em Front-end e apaixonada por criar experiências funcionais e intuitivas — sempre aprendendo e evoluindo.
-
-- 🎯 **Back-end Developer**
-- ⚙️ Estudando **Node.js** e automação
-- ✉️ **Contato:** isaconstante5@gmail.com  
-
----
-
-## 🚀 Tech Stack
-
-<div style="display: inline_block"><br>
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-</div>
+<p align="center">
+  Sou <strong>Isabela</strong>, desenvolvedora Back-end focada em criar soluções eficientes, escaláveis e bem estruturadas.  
+  Apaixonada por automação, boas práticas e por transformar ideias em código limpo.
+</p>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=IsaConstante&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaConstante&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----
-
-## 🌐 Onde me encontrar
-
-<a href="https://www.linkedin.com/in/isabela-de-oliveira-constante-9929131b5" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
----
+## 🛠️ Tech Stack
 
 <div align="center">
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-222?style=for-the-badge&logo=javascript)
+  ![Node.js](https://img.shields.io/badge/Node.js-222?style=for-the-badge&logo=node.js)
+  ![Python](https://img.shields.io/badge/Python-222?style=for-the-badge&logo=python)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-222?style=for-the-badge&logo=postgresql)
+  ![Git](https://img.shields.io/badge/Git-222?style=for-the-badge&logo=git)
 
 </div>
+
+---
+
+## 📚 O que estou estudando agora
+
+- Arquitetura de APIs 🧩  
+- Node.js + Express ⚡  
+- Automação com Python 🤖  
+- Testes (Pytest e Jest) 🧪  
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=IsaConstante&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaConstante&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌎 Onde me encontrar
+
+<div align="center">
+
+<a target="_blank" href="https://www.linkedin.com/in/isabela-de-oliveira-constante-9929131b5">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<p align="center">
+  <sub>✨ Always learning. Always building. ✨</sub>
+</p>
